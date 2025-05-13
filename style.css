@@ -67,6 +67,7 @@ nav a:hover {
 main {
   max-width: 960px;
   margin: 2rem auto;
+  margin-bottom: 0;
   padding: 0 1rem;
 }
 
@@ -121,13 +122,37 @@ h2 {
   text-align: start;
 
 }
+.project-item {
+  margin-bottom: 1.5rem;
+  padding: .5rem 0;
+  border-bottom: 1px solid var(--accent-color);
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  font-size: 1rem;
+  color: var(--text-color);
+  line-height: 1.5;
+  letter-spacing: 0.9px;
+  font-weight: 400;
+  text-align: justify;
+  text-justify: inter-word;
+  text-align: start;
+}
+.project-item p{
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+  color: var(--text-color);
+  line-height: 1.5;
+  letter-spacing: 0.9px;
+  font-weight: 400;
+}
 
 footer {
   text-align: center;
   background: var(--primary-color);
   color: var(--white);
   padding: 1.5rem 1rem;
-  margin-top: 3rem;
+  margin-top: 0rem;
   font-size: 0.9rem;
 }
 footer p {

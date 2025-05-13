@@ -20,9 +20,11 @@ An elegant and responsive online resume designed with HTML, CSS, and JavaScript.
 3. Customize your content if needed.
 
 ## 📎 Live Preview
-Visit [akashkumarportfolio.online](https://www.akashkumarportfolio.online)
+Visit [Live Demo](https://github.com/AkashKumar2011.io/interactiveResume)
+
+## GitHub Code
+Visit [Code](https://github.com/AkashKumar2011/interactiveResume.git)
 
 ## 📩 Contact
-**Email:** akashkumar@example.com  
-**Phone:** +91-XXXXXXXXXX  
+**Email:** kumarakash20112000@gmail.com   
 **Portfolio:** [https://www.akashkumarportfolio.online](https://www.akashkumarportfolio.online)
