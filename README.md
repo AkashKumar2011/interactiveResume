@@ -26,5 +26,6 @@ Visit [Live Demo](https://github.com/AkashKumar2011.io/interactiveResume)
 Visit [Code](https://github.com/AkashKumar2011/interactiveResume.git)
 
 ## 📩 Contact
-**Email:** kumarakash20112000@gmail.com   
-**Portfolio:** [https://www.akashkumarportfolio.online](https://www.akashkumarportfolio.online)
+
+**Email:** [Gmail](kumarakash20112000@gmail.com )  
+**Portfolio:** [Protfolio](https://www.akashkumarportfolio.online)
