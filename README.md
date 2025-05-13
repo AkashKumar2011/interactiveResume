@@ -20,7 +20,7 @@ An elegant and responsive online resume designed with HTML, CSS, and JavaScript.
 3. Customize your content if needed.
 
 ## 📎 Live Preview
-Visit [Live Demo](https://github.com/AkashKumar2011.io/interactiveResume)
+Visit [Live Demo](https://akashkumar2011.github.io/interactiveResume/)
 
 ## GitHub Code
 Visit [Code](https://github.com/AkashKumar2011/interactiveResume.git)
